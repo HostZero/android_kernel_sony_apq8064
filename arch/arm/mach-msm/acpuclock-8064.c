@@ -191,11 +191,6 @@ static struct acpu_level tbl_slow[] __initdata = {
 	{ 1, {  1890000, HFPLL, 1, 0x45 }, L2(15), 1425000 },
 	{ 1, {  1944000, HFPLL, 1, 0x46 }, L2(15), 1450000 },
 #endif
-<<<<<<< HEAD
-
-=======
-#endif
->>>>>>> a5cdb7a... Overclocking: cut off normal max OC @1.84 GHz and make 1.944 GHz as ultimate
 	{ 0, { 0 } }
 };
 
